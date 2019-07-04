@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\bin\Debug\netcoreapp2.1\FSRSA.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\bin\Debug\netcoreapp2.1\FSRSA.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\bin\Debug\netcoreapp2.1\FSRSA.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\bin\Debug\netcoreapp2.1\FSRSA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\bin\Debug\netcoreapp2.1\FSRSA.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\obj\Debug\netcoreapp2.1\FSRSA.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\obj\Debug\netcoreapp2.1\FSRSA.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\obj\Debug\netcoreapp2.1\FSRSA.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\obj\Debug\netcoreapp2.1\FSRSA.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\obj\Debug\netcoreapp2.1\FSRSA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FSRSA\obj\Debug\netcoreapp2.1\FSRSA.pdb
